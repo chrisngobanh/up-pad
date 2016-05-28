@@ -1,0 +1,37 @@
+{
+  "name": "up-pad",
+  "version": "1.0.0",
+  "description": "String up pad",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test"
+  },
+  "devDependencies": {
+    "benchmark": "^2.1.0",
+    "tape": "*"
+  },
+  "keywords": [
+    "uppad",
+    "up",
+    "pad",
+    "padding",
+    "string",
+    "repeat"
+  ],
+  "repository": {
+    "url": "git@github.com:chrisngobanh/up-pad.git",
+    "type": "git"
+  },
+  "author": "chrisngobanh",
+  "maintainers": [
+    {
+      "name": "Chris Banh",
+      "email": "chris@chrisbanh.com"
+    },
+    {
+      "name": "Anwar Ali-Ahmad",
+      "email": "anwar.aliahmad@icloud.com"
+    }
+  ],
+  "license": "WTFPL"
+}
